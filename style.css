@@ -1,0 +1,31 @@
+body {
+  background-color: #3d0427;
+  font-family: Arial, sans-serif;
+  margin: 25px;
+  line-height: 1.5;
+}
+
+h1 {
+  color: navy;
+  font-family: "Times New Roman", Times, serif, sans-serif;
+}
+
+h2 {
+  color: darkblue;
+}
+
+h3 {
+  color: darkgreen;
+}
+
+.devise {
+  font-style: italic;
+}
+
+a {
+  color: blue;
+}
+
+li {
+  margin-bottom: 5px;
+}
